@@ -5,57 +5,39 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: Vuori
+  title-url: #
+  date: Apr 2025 - Present
+  subtitle: Sales Associate
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+- title: Michigan State University
+  title-url: #
+  date: Aug 2024 - Present
+  subtitle: Computer Science Student
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Physical Therapy Technician
+  title-url: #
+  date: Jun 2023 - Aug 2024
+  subtitle: Coordinated and worked through exercise plans with patients ages 8-100, as well as ensuring organization for clinic of over 500 patients.
+  timeline-side: right
+
+- title: Computer Science Honor Society
+  title-url: #
+  date: Sep 2022 - Jun 2024
+  subtitle: Volunteer, Coordinated and ran activities for middle school stem club in school district, Utilized money from fundraising for experiments/activities.
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: Community Service Club
+  title-url: #
+  date: Sep 2021 - Jun 2024
+  subtitle: Volunteer, Biweekly brainstorming meetings as a club to propose volunteering and fundraising ideas to give back to surrounding community.
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Bloomfield Hills High School
+  title-url: #
+  date: 2020 - 2024
+  subtitle: Student
   timeline-side: left
