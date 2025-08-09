@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: MSU Expense Tracker (Flask Web App)
-  descr: "Developed a full-stack expense tracking web application using Python, Flask, Pandas, and Matplotlib. Features include transaction management, category-based spending visualization, monthly budget goals, multi-user support, and responsive UI. Integrated data validation, CRUD functionality, and dynamic charts."
+  descr: "Developed a full-stack expense tracking web application using Python, Flask, Pandas, and Matplotlib. Features include transaction management, category-based spending visualization, monthly budget goals, multi-user support, and responsive UI. Integrated data validation, CRUD functionality, OpenAI analysis, and dynamic charts."
   demo: https://github.com/Gavin-Cote/flask-expense-tracker
   tags:
     - tag: Python
